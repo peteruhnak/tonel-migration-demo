@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DemoObject",
+	"category" : "Demo-Project",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"secondName"
+	],
+	"name" : "DemoSubObject",
+	"type" : "normal"
+}
